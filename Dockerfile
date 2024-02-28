@@ -1,1 +1,1 @@
-FROM baserow/baserow:1.22.3
+FROM baserow/baserow:1.20.0
